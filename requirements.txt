@@ -1,0 +1,7 @@
+pystac-client
+rasterio==1.4.3   # 1.5.x is blocked by Windows Smart App Control on this PC
+pyproj
+numpy
+matplotlib
+scikit-learn
+joblib
