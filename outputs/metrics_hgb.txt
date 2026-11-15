@@ -1,0 +1,15 @@
+Model: hgb  |  test area: montauban (2021-08-28)
+Overall accuracy: 0.708
+Macro F1: 0.714
+
+              precision    recall  f1-score   support
+
+      Forest      0.765     0.730     0.747    304448
+ Grass/shrub      0.720     0.744     0.732    293013
+    Cropland      0.390     0.548     0.456    100294
+    Built-up      0.877     0.686     0.770    180059
+       Water      0.792     0.954     0.865     12692
+
+    accuracy                          0.708    890506
+   macro avg      0.709     0.732     0.714    890506
+weighted avg      0.731     0.708     0.716    890506

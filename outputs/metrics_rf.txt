@@ -1,0 +1,15 @@
+Model: rf  |  test area: montauban (2021-08-28)
+Overall accuracy: 0.704
+Macro F1: 0.710
+
+              precision    recall  f1-score   support
+
+      Forest      0.770     0.710     0.739    304448
+ Grass/shrub      0.709     0.743     0.726    293013
+    Cropland      0.383     0.531     0.445    100294
+    Built-up      0.860     0.707     0.776    180059
+       Water      0.787     0.957     0.863     12692
+
+    accuracy                          0.704    890506
+   macro avg      0.702     0.730     0.710    890506
+weighted avg      0.725     0.704     0.711    890506
